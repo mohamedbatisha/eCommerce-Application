@@ -5,6 +5,7 @@ com/example/demo/model/requests/CreateUserRequest.class
 com/example/demo/model/persistence/Item.class
 com/example/demo/controllers/OrderController.class
 com/example/demo/security/SecurityConstants.class
+com/example/demo/model/requests/LoginRequest.class
 com/example/demo/model/persistence/repositories/CartRepository.class
 com/example/demo/model/requests/ModifyCartRequest.class
 com/example/demo/controllers/UserController.class
